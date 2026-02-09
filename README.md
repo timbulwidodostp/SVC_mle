@@ -1,6 +1,8 @@
 # SVC_mle
 Maximum likelihood estimation (MLE) of SVC (spatially varying coefficient) model Use SVC_mle (varycoef) With (In) R Software
 
+https://www.youtube.com/watch?v=cPGN8l10VII
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
